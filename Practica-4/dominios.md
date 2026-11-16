@@ -1,19 +1,3 @@
-# Ejercicio 1.1: Tipos de Dato y Dominios
-
-```sql
--- Dominio para montos monetarios 
-CREATE DOMAIN dom_moneda AS NUMERIC(10, 2)
-    CHECK (VALUE >= 0);
-
--- Dominio para teléfonos a 10 dígitos 
-CREATE DOMAIN dom_telefono AS CHAR(10)
-    CHECK (VALUE ~ '^[0-9]{10}$');
-
--- Tipo enumerado para los turnos operativos del restaurante
-CREATE TYPE tipo_turno AS ENUM ('Matutino', 'Vespertino', 'Mixto');
-```
-
-
 ## Diccionario de Tipos de Dato por Tabla
 
 ### Tabla `EMPLEADO`
