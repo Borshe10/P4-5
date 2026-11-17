@@ -1,0 +1,211 @@
+id_platillo,nombre,descripcion,precio,id_empleado
+1,Carpaccio de Res al Carbón,Preparación artesanal de carpaccio de res al carbón con ingredientes frescos seleccionados diariamente.,283.50,40
+2,Enchiladas Suizas Porción Grande,Preparación artesanal de enchiladas suizas porción grande con ingredientes frescos seleccionados diariamente.,174.50,33
+3,Pastel de Tres Leches del Chef,Preparación artesanal de pastel de tres leches del chef con ingredientes frescos seleccionados diariamente.,596.00,38
+4,Cochinita Pibil Especial,Preparación artesanal de cochinita pibil especial con ingredientes frescos seleccionados diariamente.,541.00,38
+5,Arrachera a la Parrilla Especial,Preparación artesanal de arrachera a la parrilla especial con ingredientes frescos seleccionados diariamente.,223.00,35
+6,Sopes de Chorizo Estilo Gourmet,Preparación artesanal de sopes de chorizo estilo gourmet con ingredientes frescos seleccionados diariamente.,324.90,35
+7,Sopes de Chorizo Porción Grande,Preparación artesanal de sopes de chorizo porción grande con ingredientes frescos seleccionados diariamente.,118.00,38
+8,Barbacoa de Borrego de la Casa,Preparación artesanal de barbacoa de borrego de la casa con ingredientes frescos seleccionados diariamente.,571.90,33
+9,Tostadas de Atún Porción Grande,Preparación artesanal de tostadas de atún porción grande con ingredientes frescos seleccionados diariamente.,324.50,40
+10,Lasagna Bolognesa Estilo Gourmet,Preparación artesanal de lasagna bolognesa estilo gourmet con ingredientes frescos seleccionados diariamente.,166.90,35
+11,Churros con Cajeta Porción Grande,Preparación artesanal de churros con cajeta porción grande con ingredientes frescos seleccionados diariamente.,272.50,31
+12,Pasta Alfredo con Camarones Receta Secreta,Preparación artesanal de pasta alfredo con camarones receta secreta con ingredientes frescos seleccionados diariamente.,355.00,34
+13,Carpaccio de Res Estilo Gourmet,Preparación artesanal de carpaccio de res estilo gourmet con ingredientes frescos seleccionados diariamente.,552.90,37
+14,Quesadillas de Flor Especial,Preparación artesanal de quesadillas de flor especial con ingredientes frescos seleccionados diariamente.,561.50,40
+15,Chiles en Nogada Tradicional,Preparación artesanal de chiles en nogada tradicional con ingredientes frescos seleccionados diariamente.,226.50,27
+16,Tiramisú Clásico Especial,Preparación artesanal de tiramisú clásico especial con ingredientes frescos seleccionados diariamente.,374.90,34
+17,Hamburguesa Artesanal Estilo Gourmet,Preparación artesanal de hamburguesa artesanal estilo gourmet con ingredientes frescos seleccionados diariamente.,507.90,37
+18,Tampiqueña Tradicional Tradicional,Preparación artesanal de tampiqueña tradicional tradicional con ingredientes frescos seleccionados diariamente.,165.00,30
+19,Camarones al Mojo de Ajo Estilo Gourmet,Preparación artesanal de camarones al mojo de ajo estilo gourmet con ingredientes frescos seleccionados diariamente.,250.00,34
+20,Churros con Cajeta Receta Secreta,Preparación artesanal de churros con cajeta receta secreta con ingredientes frescos seleccionados diariamente.,345.50,29
+21,Aguachile Verde al Carbón,Preparación artesanal de aguachile verde al carbón con ingredientes frescos seleccionados diariamente.,459.90,34
+22,Arrachera a la Parrilla Estilo Gourmet,Preparación artesanal de arrachera a la parrilla estilo gourmet con ingredientes frescos seleccionados diariamente.,374.50,33
+23,Camarones al Mojo de Ajo Acompañado con Guarnición,Preparación artesanal de camarones al mojo de ajo acompañado con guarnición con ingredientes frescos seleccionados diariamente.,198.00,36
+24,Camarones al Mojo de Ajo de la Casa,Preparación artesanal de camarones al mojo de ajo de la casa con ingredientes frescos seleccionados diariamente.,102.90,28
+25,Enchiladas Suizas con Salsa Artesanal,Preparación artesanal de enchiladas suizas con salsa artesanal con ingredientes frescos seleccionados diariamente.,255.00,28
+26,Aguachile Verde Acompañado con Guarnición,Preparación artesanal de aguachile verde acompañado con guarnición con ingredientes frescos seleccionados diariamente.,134.50,33
+27,Tacos al Pastor con Salsa Artesanal,Preparación artesanal de tacos al pastor con salsa artesanal con ingredientes frescos seleccionados diariamente.,647.50,30
+28,Chiles en Nogada de la Casa,Preparación artesanal de chiles en nogada de la casa con ingredientes frescos seleccionados diariamente.,94.50,32
+29,Tostadas de Atún con Salsa Artesanal,Preparación artesanal de tostadas de atún con salsa artesanal con ingredientes frescos seleccionados diariamente.,559.00,35
+30,Tostadas de Atún de la Casa,Preparación artesanal de tostadas de atún de la casa con ingredientes frescos seleccionados diariamente.,171.00,32
+31,Crema de Elote Estilo Gourmet,Preparación artesanal de crema de elote estilo gourmet con ingredientes frescos seleccionados diariamente.,431.50,26
+32,Quesadillas de Flor Receta Secreta,Preparación artesanal de quesadillas de flor receta secreta con ingredientes frescos seleccionados diariamente.,433.50,37
+33,Camarones al Mojo de Ajo Especial,Preparación artesanal de camarones al mojo de ajo especial con ingredientes frescos seleccionados diariamente.,651.50,40
+34,Mole Poblano Porción Grande,Preparación artesanal de mole poblano porción grande con ingredientes frescos seleccionados diariamente.,547.00,38
+35,Churros con Cajeta Tradicional,Preparación artesanal de churros con cajeta tradicional con ingredientes frescos seleccionados diariamente.,667.00,40
+36,Enchiladas Suizas Tradicional,Preparación artesanal de enchiladas suizas tradicional con ingredientes frescos seleccionados diariamente.,393.90,35
+37,Aguachile Verde de la Casa,Preparación artesanal de aguachile verde de la casa con ingredientes frescos seleccionados diariamente.,162.50,35
+38,Chiles en Nogada Receta Secreta,Preparación artesanal de chiles en nogada receta secreta con ingredientes frescos seleccionados diariamente.,400.90,35
+39,Mole Poblano al Carbón,Preparación artesanal de mole poblano al carbón con ingredientes frescos seleccionados diariamente.,604.50,37
+40,Pulpo a las Brasas Receta Secreta,Preparación artesanal de pulpo a las brasas receta secreta con ingredientes frescos seleccionados diariamente.,270.90,29
+41,Lasagna Bolognesa Acompañado con Guarnición,Preparación artesanal de lasagna bolognesa acompañado con guarnición con ingredientes frescos seleccionados diariamente.,666.50,39
+42,Carpaccio de Res Tradicional,Preparación artesanal de carpaccio de res tradicional con ingredientes frescos seleccionados diariamente.,405.00,33
+43,Arrachera a la Parrilla Receta Secreta,Preparación artesanal de arrachera a la parrilla receta secreta con ingredientes frescos seleccionados diariamente.,291.50,26
+44,Flan Napolitano al Carbón,Preparación artesanal de flan napolitano al carbón con ingredientes frescos seleccionados diariamente.,611.00,27
+45,Salmón a las Finas Hierbas Tradicional,Preparación artesanal de salmón a las finas hierbas tradicional con ingredientes frescos seleccionados diariamente.,393.00,33
+46,Salmón a las Finas Hierbas de la Casa,Preparación artesanal de salmón a las finas hierbas de la casa con ingredientes frescos seleccionados diariamente.,157.00,33
+47,Ensalada César Especial,Preparación artesanal de ensalada césar especial con ingredientes frescos seleccionados diariamente.,383.90,39
+48,Tiramisú Clásico Porción Grande,Preparación artesanal de tiramisú clásico porción grande con ingredientes frescos seleccionados diariamente.,79.90,40
+49,Hamburguesa Artesanal con Salsa Artesanal,Preparación artesanal de hamburguesa artesanal con salsa artesanal con ingredientes frescos seleccionados diariamente.,552.00,40
+50,Tostadas de Atún al Carbón,Preparación artesanal de tostadas de atún al carbón con ingredientes frescos seleccionados diariamente.,213.90,39
+51,Pulpo a las Brasas Tradicional,Preparación artesanal de pulpo a las brasas tradicional con ingredientes frescos seleccionados diariamente.,92.00,35
+52,Pastel de Tres Leches con Salsa Artesanal,Preparación artesanal de pastel de tres leches con salsa artesanal con ingredientes frescos seleccionados diariamente.,82.50,38
+53,Ceviche Peruano Porción Grande,Preparación artesanal de ceviche peruano porción grande con ingredientes frescos seleccionados diariamente.,472.00,39
+54,Cochinita Pibil Porción Grande,Preparación artesanal de cochinita pibil porción grande con ingredientes frescos seleccionados diariamente.,561.90,28
+55,Pasta Alfredo con Camarones del Chef,Preparación artesanal de pasta alfredo con camarones del chef con ingredientes frescos seleccionados diariamente.,351.90,32
+56,Mole Poblano Acompañado con Guarnición,Preparación artesanal de mole poblano acompañado con guarnición con ingredientes frescos seleccionados diariamente.,410.90,32
+57,Tostadas de Atún Tradicional,Preparación artesanal de tostadas de atún tradicional con ingredientes frescos seleccionados diariamente.,252.50,37
+58,Hamburguesa Artesanal del Chef,Preparación artesanal de hamburguesa artesanal del chef con ingredientes frescos seleccionados diariamente.,633.50,37
+59,Mole Poblano de la Casa,Preparación artesanal de mole poblano de la casa con ingredientes frescos seleccionados diariamente.,418.00,27
+60,Ensalada César al Carbón,Preparación artesanal de ensalada césar al carbón con ingredientes frescos seleccionados diariamente.,491.90,30
+61,Camarones al Mojo de Ajo Tradicional,Preparación artesanal de camarones al mojo de ajo tradicional con ingredientes frescos seleccionados diariamente.,522.50,32
+62,Pozole Rojo Acompañado con Guarnición,Preparación artesanal de pozole rojo acompañado con guarnición con ingredientes frescos seleccionados diariamente.,72.50,36
+63,Carpaccio de Res del Chef,Preparación artesanal de carpaccio de res del chef con ingredientes frescos seleccionados diariamente.,496.90,33
+64,Sopa Azteca del Chef,Preparación artesanal de sopa azteca del chef con ingredientes frescos seleccionados diariamente.,190.00,37
+65,Barbacoa de Borrego Receta Secreta,Preparación artesanal de barbacoa de borrego receta secreta con ingredientes frescos seleccionados diariamente.,542.50,29
+66,Tostadas de Atún Acompañado con Guarnición,Preparación artesanal de tostadas de atún acompañado con guarnición con ingredientes frescos seleccionados diariamente.,357.00,36
+67,Tacos al Pastor Especial,Preparación artesanal de tacos al pastor especial con ingredientes frescos seleccionados diariamente.,74.50,31
+68,Rib Eye 400g de la Casa,Preparación artesanal de rib eye 400g de la casa con ingredientes frescos seleccionados diariamente.,272.50,39
+69,Salmón a las Finas Hierbas Acompañado con Guarnición,Preparación artesanal de salmón a las finas hierbas acompañado con guarnición con ingredientes frescos seleccionados diariamente.,323.90,33
+70,Churros con Cajeta de la Casa,Preparación artesanal de churros con cajeta de la casa con ingredientes frescos seleccionados diariamente.,457.00,37
+71,Arrachera a la Parrilla Acompañado con Guarnición,Preparación artesanal de arrachera a la parrilla acompañado con guarnición con ingredientes frescos seleccionados diariamente.,193.50,28
+72,Carpaccio de Res Acompañado con Guarnición,Preparación artesanal de carpaccio de res acompañado con guarnición con ingredientes frescos seleccionados diariamente.,408.00,31
+73,Quesadillas de Flor Tradicional,Preparación artesanal de quesadillas de flor tradicional con ingredientes frescos seleccionados diariamente.,220.50,30
+74,Lasagna Bolognesa Especial,Preparación artesanal de lasagna bolognesa especial con ingredientes frescos seleccionados diariamente.,234.90,30
+75,Cochinita Pibil al Carbón,Preparación artesanal de cochinita pibil al carbón con ingredientes frescos seleccionados diariamente.,523.90,35
+76,Crema de Elote Tradicional,Preparación artesanal de crema de elote tradicional con ingredientes frescos seleccionados diariamente.,484.90,36
+77,Lasagna Bolognesa al Carbón,Preparación artesanal de lasagna bolognesa al carbón con ingredientes frescos seleccionados diariamente.,569.50,38
+78,Camarones al Mojo de Ajo Receta Secreta,Preparación artesanal de camarones al mojo de ajo receta secreta con ingredientes frescos seleccionados diariamente.,163.50,32
+79,Pozole Rojo del Chef,Preparación artesanal de pozole rojo del chef con ingredientes frescos seleccionados diariamente.,628.50,35
+80,Filete Mignon al Carbón,Preparación artesanal de filete mignon al carbón con ingredientes frescos seleccionados diariamente.,226.00,34
+81,Camarones al Mojo de Ajo al Carbón,Preparación artesanal de camarones al mojo de ajo al carbón con ingredientes frescos seleccionados diariamente.,364.00,37
+82,Ceviche Peruano al Carbón,Preparación artesanal de ceviche peruano al carbón con ingredientes frescos seleccionados diariamente.,513.90,37
+83,Chiles en Nogada del Chef,Preparación artesanal de chiles en nogada del chef con ingredientes frescos seleccionados diariamente.,424.00,32
+84,Churros con Cajeta al Carbón,Preparación artesanal de churros con cajeta al carbón con ingredientes frescos seleccionados diariamente.,119.90,29
+85,Arrachera a la Parrilla de la Casa,Preparación artesanal de arrachera a la parrilla de la casa con ingredientes frescos seleccionados diariamente.,641.50,32
+86,Salmón a las Finas Hierbas del Chef,Preparación artesanal de salmón a las finas hierbas del chef con ingredientes frescos seleccionados diariamente.,602.50,33
+87,Lasagna Bolognesa del Chef,Preparación artesanal de lasagna bolognesa del chef con ingredientes frescos seleccionados diariamente.,392.00,32
+88,Quesadillas de Flor Porción Grande,Preparación artesanal de quesadillas de flor porción grande con ingredientes frescos seleccionados diariamente.,634.90,35
+89,Lasagna Bolognesa Tradicional,Preparación artesanal de lasagna bolognesa tradicional con ingredientes frescos seleccionados diariamente.,336.90,37
+90,Tacos al Pastor Receta Secreta,Preparación artesanal de tacos al pastor receta secreta con ingredientes frescos seleccionados diariamente.,522.90,39
+91,Rib Eye 400g al Carbón,Preparación artesanal de rib eye 400g al carbón con ingredientes frescos seleccionados diariamente.,265.00,27
+92,Churros con Cajeta Estilo Gourmet,Preparación artesanal de churros con cajeta estilo gourmet con ingredientes frescos seleccionados diariamente.,677.50,37
+93,Cochinita Pibil Acompañado con Guarnición,Preparación artesanal de cochinita pibil acompañado con guarnición con ingredientes frescos seleccionados diariamente.,310.90,39
+94,Sopes de Chorizo Acompañado con Guarnición,Preparación artesanal de sopes de chorizo acompañado con guarnición con ingredientes frescos seleccionados diariamente.,343.90,30
+95,Sopes de Chorizo Especial,Preparación artesanal de sopes de chorizo especial con ingredientes frescos seleccionados diariamente.,455.00,32
+96,Hamburguesa Artesanal Acompañado con Guarnición,Preparación artesanal de hamburguesa artesanal acompañado con guarnición con ingredientes frescos seleccionados diariamente.,674.00,33
+97,Salmón a las Finas Hierbas Receta Secreta,Preparación artesanal de salmón a las finas hierbas receta secreta con ingredientes frescos seleccionados diariamente.,174.90,40
+98,Hamburguesa Artesanal Tradicional,Preparación artesanal de hamburguesa artesanal tradicional con ingredientes frescos seleccionados diariamente.,657.50,30
+99,Pasta Alfredo con Camarones Estilo Gourmet,Preparación artesanal de pasta alfredo con camarones estilo gourmet con ingredientes frescos seleccionados diariamente.,403.50,35
+100,Tiramisú Clásico del Chef,Preparación artesanal de tiramisú clásico del chef con ingredientes frescos seleccionados diariamente.,628.90,33
+101,Flan Napolitano Acompañado con Guarnición,Preparación artesanal de flan napolitano acompañado con guarnición con ingredientes frescos seleccionados diariamente.,552.90,33
+102,Tampiqueña Tradicional Receta Secreta,Preparación artesanal de tampiqueña tradicional receta secreta con ingredientes frescos seleccionados diariamente.,247.00,38
+103,Chiles en Nogada Porción Grande,Preparación artesanal de chiles en nogada porción grande con ingredientes frescos seleccionados diariamente.,89.90,34
+104,Tacos al Pastor Acompañado con Guarnición,Preparación artesanal de tacos al pastor acompañado con guarnición con ingredientes frescos seleccionados diariamente.,674.50,40
+105,Ceviche Peruano Tradicional,Preparación artesanal de ceviche peruano tradicional con ingredientes frescos seleccionados diariamente.,628.90,29
+106,Ensalada César Tradicional,Preparación artesanal de ensalada césar tradicional con ingredientes frescos seleccionados diariamente.,661.90,36
+107,Pasta Alfredo con Camarones con Salsa Artesanal,Preparación artesanal de pasta alfredo con camarones con salsa artesanal con ingredientes frescos seleccionados diariamente.,641.00,37
+108,Barbacoa de Borrego Acompañado con Guarnición,Preparación artesanal de barbacoa de borrego acompañado con guarnición con ingredientes frescos seleccionados diariamente.,419.00,32
+109,Pulpo a las Brasas Acompañado con Guarnición,Preparación artesanal de pulpo a las brasas acompañado con guarnición con ingredientes frescos seleccionados diariamente.,384.50,31
+110,Barbacoa de Borrego al Carbón,Preparación artesanal de barbacoa de borrego al carbón con ingredientes frescos seleccionados diariamente.,346.50,33
+111,Sopes de Chorizo al Carbón,Preparación artesanal de sopes de chorizo al carbón con ingredientes frescos seleccionados diariamente.,626.00,28
+112,Camarones al Mojo de Ajo Porción Grande,Preparación artesanal de camarones al mojo de ajo porción grande con ingredientes frescos seleccionados diariamente.,654.90,36
+113,Pastel de Tres Leches Especial,Preparación artesanal de pastel de tres leches especial con ingredientes frescos seleccionados diariamente.,397.50,35
+114,Tampiqueña Tradicional Acompañado con Guarnición,Preparación artesanal de tampiqueña tradicional acompañado con guarnición con ingredientes frescos seleccionados diariamente.,168.00,33
+115,Tampiqueña Tradicional del Chef,Preparación artesanal de tampiqueña tradicional del chef con ingredientes frescos seleccionados diariamente.,190.90,30
+116,Rib Eye 400g Acompañado con Guarnición,Preparación artesanal de rib eye 400g acompañado con guarnición con ingredientes frescos seleccionados diariamente.,82.50,37
+117,Hamburguesa Artesanal Porción Grande,Preparación artesanal de hamburguesa artesanal porción grande con ingredientes frescos seleccionados diariamente.,171.90,35
+118,Mole Poblano Especial,Preparación artesanal de mole poblano especial con ingredientes frescos seleccionados diariamente.,216.50,39
+119,Ensalada César Receta Secreta,Preparación artesanal de ensalada césar receta secreta con ingredientes frescos seleccionados diariamente.,639.50,30
+120,Enchiladas Suizas Acompañado con Guarnición,Preparación artesanal de enchiladas suizas acompañado con guarnición con ingredientes frescos seleccionados diariamente.,360.50,31
+121,Tiramisú Clásico Acompañado con Guarnición,Preparación artesanal de tiramisú clásico acompañado con guarnición con ingredientes frescos seleccionados diariamente.,532.00,34
+122,Quesadillas de Flor de la Casa,Preparación artesanal de quesadillas de flor de la casa con ingredientes frescos seleccionados diariamente.,303.00,35
+123,Rib Eye 400g Estilo Gourmet,Preparación artesanal de rib eye 400g estilo gourmet con ingredientes frescos seleccionados diariamente.,422.50,31
+124,Camarones al Mojo de Ajo del Chef,Preparación artesanal de camarones al mojo de ajo del chef con ingredientes frescos seleccionados diariamente.,672.00,38
+125,Tacos al Pastor al Carbón,Preparación artesanal de tacos al pastor al carbón con ingredientes frescos seleccionados diariamente.,287.90,27
+126,Ceviche Peruano Estilo Gourmet,Preparación artesanal de ceviche peruano estilo gourmet con ingredientes frescos seleccionados diariamente.,385.50,40
+127,Hamburguesa Artesanal al Carbón,Preparación artesanal de hamburguesa artesanal al carbón con ingredientes frescos seleccionados diariamente.,283.00,32
+128,Cochinita Pibil de la Casa,Preparación artesanal de cochinita pibil de la casa con ingredientes frescos seleccionados diariamente.,184.50,28
+129,Pozole Rojo con Salsa Artesanal,Preparación artesanal de pozole rojo con salsa artesanal con ingredientes frescos seleccionados diariamente.,343.00,31
+130,Carpaccio de Res Porción Grande,Preparación artesanal de carpaccio de res porción grande con ingredientes frescos seleccionados diariamente.,566.50,31
+131,Arrachera a la Parrilla Tradicional,Preparación artesanal de arrachera a la parrilla tradicional con ingredientes frescos seleccionados diariamente.,338.90,40
+132,Tampiqueña Tradicional Especial,Preparación artesanal de tampiqueña tradicional especial con ingredientes frescos seleccionados diariamente.,234.00,30
+133,Crema de Elote Especial,Preparación artesanal de crema de elote especial con ingredientes frescos seleccionados diariamente.,142.00,26
+134,Tiramisú Clásico al Carbón,Preparación artesanal de tiramisú clásico al carbón con ingredientes frescos seleccionados diariamente.,671.90,32
+135,Tampiqueña Tradicional Estilo Gourmet,Preparación artesanal de tampiqueña tradicional estilo gourmet con ingredientes frescos seleccionados diariamente.,568.00,35
+136,Sopa Azteca al Carbón,Preparación artesanal de sopa azteca al carbón con ingredientes frescos seleccionados diariamente.,172.50,27
+137,Tostadas de Atún Especial,Preparación artesanal de tostadas de atún especial con ingredientes frescos seleccionados diariamente.,444.90,31
+138,Sopa Azteca Especial,Preparación artesanal de sopa azteca especial con ingredientes frescos seleccionados diariamente.,439.50,38
+139,Mole Poblano Receta Secreta,Preparación artesanal de mole poblano receta secreta con ingredientes frescos seleccionados diariamente.,510.90,37
+140,Enchiladas Suizas al Carbón,Preparación artesanal de enchiladas suizas al carbón con ingredientes frescos seleccionados diariamente.,342.00,28
+141,Pozole Rojo al Carbón,Preparación artesanal de pozole rojo al carbón con ingredientes frescos seleccionados diariamente.,527.50,39
+142,Sopa Azteca Estilo Gourmet,Preparación artesanal de sopa azteca estilo gourmet con ingredientes frescos seleccionados diariamente.,587.90,26
+143,Tiramisú Clásico Estilo Gourmet,Preparación artesanal de tiramisú clásico estilo gourmet con ingredientes frescos seleccionados diariamente.,161.50,39
+144,Tiramisú Clásico Receta Secreta,Preparación artesanal de tiramisú clásico receta secreta con ingredientes frescos seleccionados diariamente.,189.50,34
+145,Chiles en Nogada Especial,Preparación artesanal de chiles en nogada especial con ingredientes frescos seleccionados diariamente.,647.50,26
+146,Flan Napolitano con Salsa Artesanal,Preparación artesanal de flan napolitano con salsa artesanal con ingredientes frescos seleccionados diariamente.,575.00,37
+147,Sopes de Chorizo de la Casa,Preparación artesanal de sopes de chorizo de la casa con ingredientes frescos seleccionados diariamente.,162.00,30
+148,Ceviche Peruano Receta Secreta,Preparación artesanal de ceviche peruano receta secreta con ingredientes frescos seleccionados diariamente.,362.50,36
+149,Tostadas de Atún del Chef,Preparación artesanal de tostadas de atún del chef con ingredientes frescos seleccionados diariamente.,329.00,34
+150,Crema de Elote del Chef,Preparación artesanal de crema de elote del chef con ingredientes frescos seleccionados diariamente.,184.90,31
+151,Salmón a las Finas Hierbas Especial,Preparación artesanal de salmón a las finas hierbas especial con ingredientes frescos seleccionados diariamente.,358.50,27
+152,Sopa Azteca de la Casa,Preparación artesanal de sopa azteca de la casa con ingredientes frescos seleccionados diariamente.,538.00,32
+153,Rib Eye 400g del Chef,Preparación artesanal de rib eye 400g del chef con ingredientes frescos seleccionados diariamente.,73.00,37
+154,Salmón a las Finas Hierbas con Salsa Artesanal,Preparación artesanal de salmón a las finas hierbas con salsa artesanal con ingredientes frescos seleccionados diariamente.,511.00,37
+155,Sopes de Chorizo Receta Secreta,Preparación artesanal de sopes de chorizo receta secreta con ingredientes frescos seleccionados diariamente.,536.90,34
+156,Filete Mignon del Chef,Preparación artesanal de filete mignon del chef con ingredientes frescos seleccionados diariamente.,118.90,30
+157,Ensalada César Porción Grande,Preparación artesanal de ensalada césar porción grande con ingredientes frescos seleccionados diariamente.,347.90,27
+158,Filete Mignon Acompañado con Guarnición,Preparación artesanal de filete mignon acompañado con guarnición con ingredientes frescos seleccionados diariamente.,98.50,28
+159,Lasagna Bolognesa con Salsa Artesanal,Preparación artesanal de lasagna bolognesa con salsa artesanal con ingredientes frescos seleccionados diariamente.,339.00,36
+160,Pasta Alfredo con Camarones Especial,Preparación artesanal de pasta alfredo con camarones especial con ingredientes frescos seleccionados diariamente.,395.90,27
+161,Mole Poblano Estilo Gourmet,Preparación artesanal de mole poblano estilo gourmet con ingredientes frescos seleccionados diariamente.,250.90,37
+162,Flan Napolitano del Chef,Preparación artesanal de flan napolitano del chef con ingredientes frescos seleccionados diariamente.,267.00,39
+163,Pastel de Tres Leches al Carbón,Preparación artesanal de pastel de tres leches al carbón con ingredientes frescos seleccionados diariamente.,638.90,26
+164,Ceviche Peruano del Chef,Preparación artesanal de ceviche peruano del chef con ingredientes frescos seleccionados diariamente.,393.50,38
+165,Pasta Alfredo con Camarones Porción Grande,Preparación artesanal de pasta alfredo con camarones porción grande con ingredientes frescos seleccionados diariamente.,117.90,26
+166,Aguachile Verde con Salsa Artesanal,Preparación artesanal de aguachile verde con salsa artesanal con ingredientes frescos seleccionados diariamente.,474.90,27
+167,Ceviche Peruano con Salsa Artesanal,Preparación artesanal de ceviche peruano con salsa artesanal con ingredientes frescos seleccionados diariamente.,111.50,39
+168,Tacos al Pastor Porción Grande,Preparación artesanal de tacos al pastor porción grande con ingredientes frescos seleccionados diariamente.,156.90,35
+169,Filete Mignon Receta Secreta,Preparación artesanal de filete mignon receta secreta con ingredientes frescos seleccionados diariamente.,116.90,29
+170,Mole Poblano del Chef,Preparación artesanal de mole poblano del chef con ingredientes frescos seleccionados diariamente.,561.00,31
+171,Quesadillas de Flor del Chef,Preparación artesanal de quesadillas de flor del chef con ingredientes frescos seleccionados diariamente.,237.00,26
+172,Ceviche Peruano Acompañado con Guarnición,Preparación artesanal de ceviche peruano acompañado con guarnición con ingredientes frescos seleccionados diariamente.,555.90,33
+173,Flan Napolitano Receta Secreta,Preparación artesanal de flan napolitano receta secreta con ingredientes frescos seleccionados diariamente.,631.90,30
+174,Pastel de Tres Leches Acompañado con Guarnición,Preparación artesanal de pastel de tres leches acompañado con guarnición con ingredientes frescos seleccionados diariamente.,595.00,26
+175,Chiles en Nogada con Salsa Artesanal,Preparación artesanal de chiles en nogada con salsa artesanal con ingredientes frescos seleccionados diariamente.,124.90,29
+176,Sopa Azteca Tradicional,Preparación artesanal de sopa azteca tradicional con ingredientes frescos seleccionados diariamente.,608.50,30
+177,Tostadas de Atún Estilo Gourmet,Preparación artesanal de tostadas de atún estilo gourmet con ingredientes frescos seleccionados diariamente.,426.50,29
+178,Crema de Elote Receta Secreta,Preparación artesanal de crema de elote receta secreta con ingredientes frescos seleccionados diariamente.,353.50,34
+179,Cochinita Pibil del Chef,Preparación artesanal de cochinita pibil del chef con ingredientes frescos seleccionados diariamente.,495.90,29
+180,Lasagna Bolognesa Receta Secreta,Preparación artesanal de lasagna bolognesa receta secreta con ingredientes frescos seleccionados diariamente.,303.00,29
+181,Filete Mignon Porción Grande,Preparación artesanal de filete mignon porción grande con ingredientes frescos seleccionados diariamente.,141.90,33
+182,Hamburguesa Artesanal Especial,Preparación artesanal de hamburguesa artesanal especial con ingredientes frescos seleccionados diariamente.,548.00,33
+183,Pulpo a las Brasas Estilo Gourmet,Preparación artesanal de pulpo a las brasas estilo gourmet con ingredientes frescos seleccionados diariamente.,295.90,27
+184,Aguachile Verde Receta Secreta,Preparación artesanal de aguachile verde receta secreta con ingredientes frescos seleccionados diariamente.,158.00,27
+185,Barbacoa de Borrego del Chef,Preparación artesanal de barbacoa de borrego del chef con ingredientes frescos seleccionados diariamente.,99.00,38
+186,Tacos al Pastor Tradicional,Preparación artesanal de tacos al pastor tradicional con ingredientes frescos seleccionados diariamente.,308.00,38
+187,Cochinita Pibil Tradicional,Preparación artesanal de cochinita pibil tradicional con ingredientes frescos seleccionados diariamente.,209.00,35
+188,Mole Poblano Tradicional,Preparación artesanal de mole poblano tradicional con ingredientes frescos seleccionados diariamente.,125.50,27
+189,Rib Eye 400g Tradicional,Preparación artesanal de rib eye 400g tradicional con ingredientes frescos seleccionados diariamente.,571.00,31
+190,Carpaccio de Res Especial,Preparación artesanal de carpaccio de res especial con ingredientes frescos seleccionados diariamente.,333.90,37
+191,Churros con Cajeta con Salsa Artesanal,Preparación artesanal de churros con cajeta con salsa artesanal con ingredientes frescos seleccionados diariamente.,476.90,28
+192,Tampiqueña Tradicional de la Casa,Preparación artesanal de tampiqueña tradicional de la casa con ingredientes frescos seleccionados diariamente.,342.90,40
+193,Crema de Elote al Carbón,Preparación artesanal de crema de elote al carbón con ingredientes frescos seleccionados diariamente.,476.00,30
+194,Salmón a las Finas Hierbas Porción Grande,Preparación artesanal de salmón a las finas hierbas porción grande con ingredientes frescos seleccionados diariamente.,505.90,37
+195,Sopa Azteca Receta Secreta,Preparación artesanal de sopa azteca receta secreta con ingredientes frescos seleccionados diariamente.,166.50,32
+196,Flan Napolitano Tradicional,Preparación artesanal de flan napolitano tradicional con ingredientes frescos seleccionados diariamente.,248.90,31
+197,Aguachile Verde Tradicional,Preparación artesanal de aguachile verde tradicional con ingredientes frescos seleccionados diariamente.,434.50,34
+198,Barbacoa de Borrego Tradicional,Preparación artesanal de barbacoa de borrego tradicional con ingredientes frescos seleccionados diariamente.,106.50,32
+199,Quesadillas de Flor con Salsa Artesanal,Preparación artesanal de quesadillas de flor con salsa artesanal con ingredientes frescos seleccionados diariamente.,630.00,38
+200,Carpaccio de Res de la Casa,Preparación artesanal de carpaccio de res de la casa con ingredientes frescos seleccionados diariamente.,572.90,30
+201,Ensalada César del Chef,Preparación artesanal de ensalada césar del chef con ingredientes frescos seleccionados diariamente.,349.00,36
+202,Pulpo a las Brasas al Carbón,Preparación artesanal de pulpo a las brasas al carbón con ingredientes frescos seleccionados diariamente.,664.90,31
+203,Filete Mignon Tradicional,Preparación artesanal de filete mignon tradicional con ingredientes frescos seleccionados diariamente.,498.50,30
+204,Camarones al Mojo de Ajo con Salsa Artesanal,Preparación artesanal de camarones al mojo de ajo con salsa artesanal con ingredientes frescos seleccionados diariamente.,365.50,30
+205,Pasta Alfredo con Camarones al Carbón,Preparación artesanal de pasta alfredo con camarones al carbón con ingredientes frescos seleccionados diariamente.,298.50,32
+206,Filete Mignon de la Casa,Preparación artesanal de filete mignon de la casa con ingredientes frescos seleccionados diariamente.,452.50,28
+207,Arrachera a la Parrilla Porción Grande,Preparación artesanal de arrachera a la parrilla porción grande con ingredientes frescos seleccionados diariamente.,609.90,39
+208,Barbacoa de Borrego Estilo Gourmet,Preparación artesanal de barbacoa de borrego estilo gourmet con ingredientes frescos seleccionados diariamente.,368.90,36
+209,Pulpo a las Brasas Especial,Preparación artesanal de pulpo a las brasas especial con ingredientes frescos seleccionados diariamente.,295.90,40
+210,Ensalada César Estilo Gourmet,Preparación artesanal de ensalada césar estilo gourmet con ingredientes frescos seleccionados diariamente.,142.00,26

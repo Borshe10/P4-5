@@ -1,0 +1,251 @@
+id_cliente,nombre,correo,calle,numero,colonia,telefono
+1,Fernando Méndez Romero,fernando.mendez1@yahoo.com.mx,Calle Colima,754-A,Santa María la Ribera,5616913329
+2,Héctor Pérez García,hector.perez2@gmail.com,Calle Orizaba,501-B,Polanco,5504538902
+3,Juan Morales Reyes,juan.morales3@gmail.com,Calle Orizaba,280,Del Valle Centro,3326902650
+4,Natalia Ortiz Aguilar,natalia.ortiz4@outlook.com,Av. Universidad,450,Cuauhtémoc,8150736397
+5,Héctor Pérez Gómez,hector.perez5@outlook.com,Calle Puebla,142,San Ángel,5565034872
+6,Ricardo Gutiérrez Aguilar,ricardo.gutierrez6@outlook.com,Calle Madero,404,Anzures,5668398082
+7,Camila Moreno Jiménez,camila.moreno7@outlook.com,Calle Orizaba,495-B,Coyoacán Centro,5621638119
+8,Fernanda Gómez Rodríguez,fernanda.gomez8@outlook.com,Calz. de Tlalpan,723-A,Coyoacán Centro,5596223527
+9,Paula Jiménez Morales,paula.jimenez9@yahoo.com.mx,Calle Orizaba,456,Condesa,8186096260
+10,José Martínez Morales,jose.martinez10@gmail.com,Calle Durango,180-B,Lindavista,5655540702
+11,Natalia Rivera Jiménez,natalia.rivera11@hotmail.com,Av. Coyoacán,716,Lindavista,5552392018
+12,Elena Torres Castillo,elena.torres12@ipn.mx,Calle Durango,542,Polanco,5541879501
+13,Natalia Ruiz Gómez,natalia.ruiz13@outlook.com,Calle Puebla,80,Del Valle Centro,5676444636
+14,Ximena Gómez Chávez,ximena.gomez14@ipn.mx,Calle Durango,464,Juárez,5647722252
+15,Fernanda Cruz Romero,fernanda.cruz15@outlook.com,Calle Colima,945,Polanco,3396142614
+16,Valeria García Ramírez,valeria.garcia16@hotmail.com,Calle Puebla,510,Coyoacán Centro,5509657188
+17,Mariana Díaz Ortiz,mariana.diaz17@hotmail.com,Calle Durango,485-A,Polanco,3355561996
+18,Ximena Jiménez Álvarez,ximena.jimenez18@gmail.com,Calle Durango,773,Anzures,5547045563
+19,Elena Álvarez Rodríguez,elena.alvarez19@outlook.com,Av. Universidad,948-A,Coyoacán Centro,3319862976
+20,Elena Aguilar Gutiérrez,elena.aguilar20@outlook.com,Calle Durango,576,Coyoacán Centro,3324106409
+21,Gabriela López Rodríguez,gabriela.lopez21@hotmail.com,Av. Insurgentes Sur,480,Juárez,5581649921
+22,Sofía Martínez Sánchez,sofia.martinez22@outlook.com,Calle Puebla,462-A,Portales Norte,3308580120
+23,Natalia Chávez Rivera,natalia.chavez23@hotmail.com,Av. División del Norte,572 Int. 3,Escandón,5674550153
+24,Eduardo López Chávez,eduardo.lopez24@yahoo.com.mx,Av. Coyoacán,301,Nápoles,8156989115
+25,Carlos Rivera Ramírez,carlos.rivera25@outlook.com,Av. Revolución,218-B,Condesa,5594119596
+26,Daniela Jiménez González,daniela.jimenez26@outlook.com,Calle Madero,507,Lindavista,5675408594
+27,Valeria Chávez Vázquez,valeria.chavez27@outlook.com,Av. Reforma,696,Narvarte Poniente,8176991553
+28,Luis Torres Morales,luis.torres28@ipn.mx,Calle Álvaro Obregón,71-B,Portales Norte,8104178617
+29,Elena Gómez Gutiérrez,elena.gomez29@gmail.com,Av. División del Norte,910 Int. 3,Roma Norte,3388092405
+30,Paula Gómez Mendoza,paula.gomez30@outlook.com,Av. Insurgentes Sur,981,Roma Norte,3366781072
+31,Ana Morales Méndez,ana.morales31@yahoo.com.mx,Av. Reforma,595-A,Narvarte Poniente,3380170355
+32,Daniela Rodríguez Sánchez,daniela.rodriguez32@outlook.com,Av. Revolución,968,Nápoles,5524009030
+33,Ximena Díaz García,ximena.diaz33@outlook.com,Av. Universidad,666-A,Del Valle Centro,3395521892
+34,Andrea Rodríguez Pérez,andrea.rodriguez34@ipn.mx,Calle Puebla,726 Int. 3,Del Valle Centro,8149298434
+35,Alejandro Hernández García,alejandro.hernandez35@yahoo.com.mx,Av. Revolución,160 Int. 3,Del Valle Centro,5622077491
+36,Miguel Ruiz Mendoza,miguel.ruiz36@yahoo.com.mx,Calle Madero,951,Roma Norte,5524666009
+37,Roberto Gutiérrez Gutiérrez,roberto.gutierrez37@gmail.com,Av. Revolución,827,Juárez,5503733860
+38,David Mendoza Hernández,david.mendoza38@hotmail.com,Av. Universidad,877 Int. 3,Portales Norte,3326880006
+39,Diego Chávez Gutiérrez,diego.chavez39@ipn.mx,Calle Madero,510-B,Santa María la Ribera,5620916839
+40,Valeria Ortiz Vázquez,valeria.ortiz40@outlook.com,Calle Durango,888-B,Cuauhtémoc,3382765814
+41,Gabriela Vázquez Martínez,gabriela.vazquez41@gmail.com,Av. División del Norte,110-B,Narvarte Poniente,5652823917
+42,Miguel Rivera Rivera,miguel.rivera42@yahoo.com.mx,Calle Durango,634 Int. 3,Nápoles,3382028408
+43,Eduardo Méndez García,eduardo.mendez43@hotmail.com,Av. Chapultepec,668,Narvarte Poniente,3319510387
+44,Diego Sánchez Torres,diego.sanchez44@hotmail.com,Av. Insurgentes Sur,238-B,Anzures,3338247736
+45,Mariana Chávez Rivera,mariana.chavez45@hotmail.com,Calle Álvaro Obregón,498,Portales Norte,8122364890
+46,Roberto Castillo Vázquez,roberto.castillo46@outlook.com,Calle Orizaba,144-A,Narvarte Poniente,8157908990
+47,Miguel Reyes Hernández,miguel.reyes47@outlook.com,Av. Revolución,836,Lindavista,5631553873
+48,Carlos López Chávez,carlos.lopez48@gmail.com,Av. División del Norte,44,Polanco,5560680201
+49,María López Gómez,maria.lopez49@ipn.mx,Av. Universidad,942,Nápoles,5574076752
+50,David Castillo Moreno,david.castillo50@outlook.com,Av. Universidad,846 Int. 3,Cuauhtémoc,8150693085
+51,Camila Ortiz Moreno,camila.ortiz51@outlook.com,Calle Álvaro Obregón,399-B,Cuauhtémoc,5688804921
+52,Jorge Torres Jiménez,jorge.torres52@outlook.com,Av. División del Norte,792,San Ángel,5521148982
+53,Luis Ortiz Flores,luis.ortiz53@hotmail.com,Calle Madero,206-A,Del Valle Centro,5597657504
+54,Juan Gutiérrez Méndez,juan.gutierrez54@gmail.com,Av. División del Norte,249 Int. 3,Coyoacán Centro,5688454079
+55,Mariana Chávez Romero,mariana.chavez55@gmail.com,Av. División del Norte,276,Del Valle Centro,3354226702
+56,Ximena Gómez Pérez,ximena.gomez56@outlook.com,Calz. de Tlalpan,393,Coyoacán Centro,5550149005
+57,Jorge Chávez Flores,jorge.chavez57@outlook.com,Calle Durango,162-A,Nápoles,3300972381
+58,Eduardo Mendoza Rodríguez,eduardo.mendoza58@ipn.mx,Calle Hamburgo,578,Del Valle Centro,5631632528
+59,Carlos Álvarez García,carlos.alvarez59@outlook.com,Av. Reforma,736,Coyoacán Centro,5565992608
+60,Roberto Ortiz Álvarez,roberto.ortiz60@ipn.mx,Calle Álvaro Obregón,560,Roma Norte,5570024586
+61,Jorge Cruz Torres,jorge.cruz61@gmail.com,Av. Insurgentes Sur,851-B,Narvarte Poniente,5650245406
+62,Jorge Aguilar Reyes,jorge.aguilar62@outlook.com,Av. Insurgentes Sur,859 Int. 3,Juárez,5570860251
+63,Elena Ramírez Mendoza,elena.ramirez63@gmail.com,Calle Puebla,845-A,Polanco,5693700556
+64,Juan Torres Ruiz,juan.torres64@yahoo.com.mx,Av. Chapultepec,695-A,Nápoles,8159399425
+65,Daniela Méndez Méndez,daniela.mendez65@ipn.mx,Calle Puebla,273,Anzures,8122532879
+66,Diego Pérez Mendoza,diego.perez66@hotmail.com,Calz. de Tlalpan,954-A,Narvarte Poniente,5644325580
+67,Eduardo Sánchez Ortiz,eduardo.sanchez67@yahoo.com.mx,Calle Durango,377,San Ángel,8152721045
+68,Andrea Gutiérrez Flores,andrea.gutierrez68@outlook.com,Calle Hamburgo,471,Santa María la Ribera,8129273992
+69,Arturo López Morales,arturo.lopez69@gmail.com,Calle Colima,903-A,Roma Norte,5607081690
+70,Daniela Torres Moreno,daniela.torres70@hotmail.com,Av. División del Norte,306,Narvarte Poniente,5659282829
+71,Ricardo Castillo Pérez,ricardo.castillo71@gmail.com,Calle Durango,51-A,Narvarte Poniente,5603101506
+72,María Castillo Sánchez,maria.castillo72@outlook.com,Calz. de Tlalpan,181 Int. 3,Nápoles,3358500883
+73,Natalia Cruz Hernández,natalia.cruz73@ipn.mx,Calle Colima,378,Condesa,3352957020
+74,María Chávez Rodríguez,maria.chavez74@ipn.mx,Av. Reforma,431,Cuauhtémoc,8125381258
+75,Arturo López González,arturo.lopez75@outlook.com,Calle Hamburgo,506-A,Anzures,5635676355
+76,Fernanda González Aguilar,fernanda.gonzalez76@ipn.mx,Calle Colima,915,San Ángel,3388254887
+77,Andrea Ruiz Morales,andrea.ruiz77@outlook.com,Calle Álvaro Obregón,92,Lindavista,5563328304
+78,Roberto Reyes Álvarez,roberto.reyes78@yahoo.com.mx,Calle Hamburgo,450,Juárez,5638807657
+79,Diego Martínez Flores,diego.martinez79@hotmail.com,Calle Álvaro Obregón,916 Int. 3,Escandón,3321434570
+80,Jorge Pérez Castillo,jorge.perez80@gmail.com,Av. Coyoacán,817-A,Anzures,5514976884
+81,Luis Hernández Flores,luis.hernandez81@ipn.mx,Av. Revolución,977,Coyoacán Centro,5596989646
+82,María Hernández Ramírez,maria.hernandez82@ipn.mx,Calle Álvaro Obregón,479-B,Narvarte Poniente,8129461151
+83,María Aguilar Ortiz,maria.aguilar83@hotmail.com,Calle Hamburgo,886 Int. 3,Juárez,5521270070
+84,Ricardo Álvarez Ruiz,ricardo.alvarez84@outlook.com,Av. Universidad,630,Juárez,5543716084
+85,Carlos Jiménez González,carlos.jimenez85@hotmail.com,Av. División del Norte,345-B,Anzures,8135893546
+86,Héctor López Gutiérrez,hector.lopez86@gmail.com,Calz. de Tlalpan,877 Int. 3,Roma Norte,8185159583
+87,Ximena Flores Gómez,ximena.flores87@outlook.com,Calle Orizaba,94 Int. 3,Portales Norte,8102478679
+88,Roberto Ruiz Reyes,roberto.ruiz88@gmail.com,Calle Durango,659-A,Polanco,5535643572
+89,Ximena Morales Méndez,ximena.morales89@outlook.com,Calle Durango,806,Narvarte Poniente,5628811109
+90,Fernanda Ruiz Gómez,fernanda.ruiz90@outlook.com,Calle Colima,577,Santa María la Ribera,8136623915
+91,Andrea Hernández Hernández,andrea.hernandez91@gmail.com,Calle Durango,241-B,Lindavista,3341369229
+92,Jorge Martínez Jiménez,jorge.martinez92@outlook.com,Av. División del Norte,732 Int. 3,Roma Norte,8192442580
+93,Paula Rodríguez Sánchez,paula.rodriguez93@yahoo.com.mx,Calle Durango,793 Int. 3,Santa María la Ribera,5609823360
+94,Sofía Gutiérrez González,sofia.gutierrez94@outlook.com,Calle Álvaro Obregón,236,Narvarte Poniente,8121824160
+95,Roberto Martínez Aguilar,roberto.martinez95@hotmail.com,Calle Álvaro Obregón,568 Int. 3,Del Valle Centro,5575064286
+96,Fernando Gutiérrez Flores,fernando.gutierrez96@gmail.com,Av. Universidad,952 Int. 3,Narvarte Poniente,3341393221
+97,Jorge González Rodríguez,jorge.gonzalez97@yahoo.com.mx,Calz. de Tlalpan,808,Anzures,3325313037
+98,Elena Cruz Álvarez,elena.cruz98@gmail.com,Av. Universidad,117 Int. 3,Anzures,5676408609
+99,Miguel Sánchez Cruz,miguel.sanchez99@yahoo.com.mx,Calle Álvaro Obregón,391-A,Del Valle Centro,8153221436
+100,Fernando Díaz Hernández,fernando.diaz100@ipn.mx,Av. Coyoacán,671,Narvarte Poniente,3372873516
+101,Alejandro Aguilar López,alejandro.aguilar101@gmail.com,Av. Universidad,84-B,Condesa,5693711294
+102,Miguel Moreno Ramírez,miguel.moreno102@ipn.mx,Calle Orizaba,454 Int. 3,Lindavista,5590397806
+103,Elena González Hernández,elena.gonzalez103@outlook.com,Av. Universidad,87-B,Del Valle Centro,5684201456
+104,Miguel Díaz Cruz,miguel.diaz104@gmail.com,Av. Reforma,902-B,Del Valle Centro,8104191714
+105,Gabriela Ruiz Ortiz,gabriela.ruiz105@outlook.com,Calle Álvaro Obregón,777-B,Polanco,5645223391
+106,Diego Romero Hernández,diego.romero106@outlook.com,Calle Puebla,249,Anzures,3341000379
+107,Fernando Sánchez Torres,fernando.sanchez107@gmail.com,Av. Insurgentes Sur,10,Nápoles,5653807448
+108,Fernando García Díaz,fernando.garcia108@hotmail.com,Av. Insurgentes Sur,533,Cuauhtémoc,5532254257
+109,Miguel Cruz Ortiz,miguel.cruz109@hotmail.com,Calle Durango,118-B,Santa María la Ribera,5615082163
+110,Ximena Ruiz Méndez,ximena.ruiz110@outlook.com,Av. Revolución,561-B,Polanco,5520066156
+111,Alejandro Romero Gómez,alejandro.romero111@gmail.com,Av. Insurgentes Sur,512,Cuauhtémoc,3348990965
+112,Carlos García Romero,carlos.garcia112@gmail.com,Calle Hamburgo,822-B,Cuauhtémoc,3370751023
+113,Ana Gómez Romero,ana.gomez113@outlook.com,Av. Insurgentes Sur,576 Int. 3,Coyoacán Centro,3324129248
+114,Gabriela Ramírez Vázquez,gabriela.ramirez114@outlook.com,Calle Durango,176,Cuauhtémoc,5597502971
+115,Ana González Mendoza,ana.gonzalez115@ipn.mx,Av. Reforma,236 Int. 3,Coyoacán Centro,8108049062
+116,Lucía Reyes Aguilar,lucia.reyes116@hotmail.com,Av. Universidad,606-A,Juárez,8158248752
+117,Miguel Cruz Rivera,miguel.cruz117@hotmail.com,Av. Coyoacán,745,Anzures,3318787071
+118,Ricardo Jiménez López,ricardo.jimenez118@gmail.com,Av. Revolución,761-B,Anzures,5681070665
+119,Carlos Méndez Moreno,carlos.mendez119@gmail.com,Calle Hamburgo,278,Lindavista,5642186014
+120,Paula García Sánchez,paula.garcia120@outlook.com,Av. Universidad,505-A,Coyoacán Centro,5503357608
+121,Fernanda Martínez Gutiérrez,fernanda.martinez121@hotmail.com,Calle Hamburgo,624,Lindavista,8146059272
+122,Alejandro Morales Moreno,alejandro.morales122@yahoo.com.mx,Calle Madero,732,Nápoles,5603553426
+123,Jorge Gutiérrez Martínez,jorge.gutierrez123@hotmail.com,Calle Madero,405 Int. 3,Escandón,5629890162
+124,Fernanda González Rivera,fernanda.gonzalez124@gmail.com,Av. División del Norte,848-A,Anzures,5628278631
+125,Andrea Gómez Romero,andrea.gomez125@gmail.com,Av. Chapultepec,807,Coyoacán Centro,5511351726
+126,Eduardo Álvarez Rivera,eduardo.alvarez126@yahoo.com.mx,Calle Orizaba,39-A,Coyoacán Centro,5546734463
+127,Paula Romero Díaz,paula.romero127@yahoo.com.mx,Av. Chapultepec,961 Int. 3,Cuauhtémoc,5535438466
+128,Daniela Vázquez López,daniela.vazquez128@hotmail.com,Av. División del Norte,859 Int. 3,Lindavista,5574985222
+129,José Castillo Ruiz,jose.castillo129@outlook.com,Av. Revolución,957-B,Anzures,5560578625
+130,Mariana Moreno Méndez,mariana.moreno130@gmail.com,Av. Reforma,253-A,Coyoacán Centro,8135610170
+131,Eduardo Martínez Gutiérrez,eduardo.martinez131@ipn.mx,Calle Madero,397-A,Escandón,8125646698
+132,José López Martínez,jose.lopez132@hotmail.com,Calle Álvaro Obregón,455,Juárez,3349293655
+133,Luis Pérez Gómez,luis.perez133@hotmail.com,Calz. de Tlalpan,610-B,Cuauhtémoc,8145143458
+134,Natalia Ruiz García,natalia.ruiz134@gmail.com,Av. División del Norte,112-B,Nápoles,5666297139
+135,Paula Ruiz Flores,paula.ruiz135@gmail.com,Calz. de Tlalpan,499,Santa María la Ribera,5537464542
+136,Juan García Rodríguez,juan.garcia136@yahoo.com.mx,Av. División del Norte,299,Lindavista,3366912285
+137,Natalia García Álvarez,natalia.garcia137@hotmail.com,Calle Colima,525,Condesa,3358443825
+138,Héctor Martínez Méndez,hector.martinez138@outlook.com,Av. División del Norte,753-B,Condesa,5620786100
+139,Arturo Gómez Martínez,arturo.gomez139@hotmail.com,Av. Coyoacán,159,Cuauhtémoc,8189017007
+140,Fernanda Díaz Cruz,fernanda.diaz140@hotmail.com,Av. Insurgentes Sur,943,Juárez,3344831546
+141,Paula Morales Romero,paula.morales141@hotmail.com,Av. Chapultepec,392,Nápoles,5636719600
+142,Ricardo Aguilar Martínez,ricardo.aguilar142@gmail.com,Calz. de Tlalpan,679 Int. 3,Cuauhtémoc,8102620413
+143,Lucía Ruiz Vázquez,lucia.ruiz143@ipn.mx,Calz. de Tlalpan,827 Int. 3,Anzures,5678158091
+144,Carlos Pérez Álvarez,carlos.perez144@hotmail.com,Av. Coyoacán,635,Juárez,5532054528
+145,María Mendoza Álvarez,maria.mendoza145@gmail.com,Av. Universidad,208,Santa María la Ribera,5644682369
+146,Juan Morales Hernández,juan.morales146@hotmail.com,Calle Álvaro Obregón,679-A,Santa María la Ribera,8162157670
+147,Diego Chávez Ortiz,diego.chavez147@gmail.com,Calz. de Tlalpan,580,Escandón,5689126500
+148,Elena Torres Mendoza,elena.torres148@yahoo.com.mx,Av. Chapultepec,611-B,Nápoles,8105455614
+149,Ximena Pérez Vázquez,ximena.perez149@ipn.mx,Av. División del Norte,648-A,Nápoles,8116614159
+150,Valeria López Cruz,valeria.lopez150@gmail.com,Av. Reforma,644-A,Cuauhtémoc,3363352884
+151,Fernando Jiménez Torres,fernando.jimenez151@hotmail.com,Av. Coyoacán,757-A,Roma Norte,5547928103
+152,Arturo Gómez Hernández,arturo.gomez152@hotmail.com,Calle Durango,897 Int. 3,Roma Norte,3382537861
+153,Sofía Flores Vázquez,sofia.flores153@yahoo.com.mx,Calle Madero,244,Juárez,5663018663
+154,José Pérez Chávez,jose.perez154@hotmail.com,Calle Puebla,879,Lindavista,3395812891
+155,Fernando Méndez Ortiz,fernando.mendez155@outlook.com,Calle Colima,440-A,Santa María la Ribera,8131175930
+156,María López Morales,maria.lopez156@yahoo.com.mx,Calle Orizaba,717-A,Lindavista,5625045107
+157,Eduardo Álvarez Pérez,eduardo.alvarez157@outlook.com,Av. División del Norte,678-A,Del Valle Centro,3303098251
+158,María Flores González,maria.flores158@ipn.mx,Av. Universidad,450,Roma Norte,8197561927
+159,Diego Vázquez Ortiz,diego.vazquez159@outlook.com,Av. Coyoacán,330-A,Roma Norte,8140672090
+160,Ricardo Chávez Martínez,ricardo.chavez160@hotmail.com,Calle Hamburgo,519,Coyoacán Centro,5662723593
+161,Carlos Cruz Gutiérrez,carlos.cruz161@yahoo.com.mx,Calz. de Tlalpan,33,Lindavista,3350421489
+162,Diego González Rivera,diego.gonzalez162@hotmail.com,Calz. de Tlalpan,890-A,Santa María la Ribera,8105693726
+163,Héctor Pérez Ruiz,hector.perez163@yahoo.com.mx,Calle Álvaro Obregón,388-A,Juárez,5540465797
+164,Jorge Vázquez Jiménez,jorge.vazquez164@hotmail.com,Calle Durango,385 Int. 3,Narvarte Poniente,5630152948
+165,Eduardo Morales Ortiz,eduardo.morales165@yahoo.com.mx,Av. Coyoacán,305-A,Juárez,3318382858
+166,Ximena Díaz Romero,ximena.diaz166@yahoo.com.mx,Calle Madero,552-B,Polanco,3365637216
+167,Ximena García Castillo,ximena.garcia167@yahoo.com.mx,Av. Reforma,76,Roma Norte,5568371112
+168,Gabriela Sánchez Gómez,gabriela.sanchez168@hotmail.com,Av. Chapultepec,600,Anzures,5596328195
+169,Camila Vázquez Morales,camila.vazquez169@outlook.com,Av. Insurgentes Sur,604-A,Juárez,5509440937
+170,Valeria Gómez González,valeria.gomez170@hotmail.com,Av. Revolución,593 Int. 3,Juárez,5615371864
+171,Daniela Díaz López,daniela.diaz171@ipn.mx,Calle Orizaba,497,Polanco,3387398533
+172,Mariana Moreno Pérez,mariana.moreno172@gmail.com,Av. Insurgentes Sur,123,Anzures,5621563297
+173,Paula Castillo Méndez,paula.castillo173@gmail.com,Calle Álvaro Obregón,675 Int. 3,Juárez,5684136618
+174,Roberto Flores Mendoza,roberto.flores174@ipn.mx,Av. Coyoacán,921 Int. 3,Narvarte Poniente,5517952924
+175,Roberto Vázquez García,roberto.vazquez175@ipn.mx,Av. Insurgentes Sur,461 Int. 3,Narvarte Poniente,5537221684
+176,Eduardo Jiménez Álvarez,eduardo.jimenez176@gmail.com,Calle Durango,349-A,Escandón,5542884463
+177,Fernanda Aguilar Hernández,fernanda.aguilar177@gmail.com,Calle Orizaba,327,Santa María la Ribera,3316554278
+178,Miguel Morales González,miguel.morales178@gmail.com,Av. Coyoacán,349,Portales Norte,3391551798
+179,Mariana Ramírez López,mariana.ramirez179@ipn.mx,Av. Coyoacán,620,Cuauhtémoc,5530343501
+180,Arturo Rodríguez Castillo,arturo.rodriguez180@outlook.com,Av. Reforma,365-A,Cuauhtémoc,8151977348
+181,Paula Vázquez Flores,paula.vazquez181@outlook.com,Av. Revolución,738-B,Santa María la Ribera,8186333549
+182,Ximena Gómez Torres,ximena.gomez182@yahoo.com.mx,Calle Durango,318-A,Escandón,5530800374
+183,María Reyes García,maria.reyes183@hotmail.com,Av. División del Norte,298,Coyoacán Centro,8144863979
+184,Alejandro Cruz Méndez,alejandro.cruz184@ipn.mx,Calle Colima,312 Int. 3,Anzures,8115665424
+185,Juan Ruiz Ramírez,juan.ruiz185@gmail.com,Calle Hamburgo,125 Int. 3,Juárez,3331585543
+186,Natalia Méndez Ruiz,natalia.mendez186@gmail.com,Calle Álvaro Obregón,739-A,Juárez,8173033498
+187,David Cruz Ramírez,david.cruz187@yahoo.com.mx,Av. Revolución,743-A,Nápoles,5586933604
+188,Natalia Vázquez Reyes,natalia.vazquez188@hotmail.com,Calle Puebla,670-A,Cuauhtémoc,3346384514
+189,Camila Jiménez Chávez,camila.jimenez189@ipn.mx,Av. Coyoacán,873,Escandón,5606126076
+190,Elena Ruiz Flores,elena.ruiz190@outlook.com,Av. Coyoacán,281-B,Polanco,8166226474
+191,Elena Cruz Ramírez,elena.cruz191@hotmail.com,Av. Chapultepec,38 Int. 3,Del Valle Centro,5693718162
+192,Carlos Sánchez Flores,carlos.sanchez192@hotmail.com,Calle Durango,443-A,Roma Norte,5631100334
+193,Eduardo Romero Mendoza,eduardo.romero193@yahoo.com.mx,Calle Durango,45-B,Escandón,5674493852
+194,Camila Torres Romero,camila.torres194@ipn.mx,Av. Universidad,426-A,Portales Norte,8179442428
+195,Roberto Sánchez Aguilar,roberto.sanchez195@outlook.com,Calle Puebla,356-A,Portales Norte,3361248416
+196,Ximena Chávez Hernández,ximena.chavez196@ipn.mx,Calle Madero,195-B,Condesa,5568261621
+197,Héctor Vázquez Sánchez,hector.vazquez197@hotmail.com,Calle Madero,218-B,Escandón,8113209353
+198,Mariana Vázquez García,mariana.vazquez198@ipn.mx,Av. Coyoacán,459-B,Condesa,8144372912
+199,Roberto Cruz Chávez,roberto.cruz199@outlook.com,Av. División del Norte,747-B,Lindavista,3358085378
+200,David Vázquez González,david.vazquez200@gmail.com,Calle Orizaba,902-A,Juárez,5517875666
+201,Fernanda Sánchez Ortiz,fernanda.sanchez201@outlook.com,Av. Revolución,235-B,Polanco,3335034593
+202,Paula Romero Méndez,paula.romero202@gmail.com,Av. Chapultepec,133,Roma Norte,5584085655
+203,José Jiménez Flores,jose.jimenez203@outlook.com,Calle Hamburgo,841,Roma Norte,8193301159
+204,Ximena González García,ximena.gonzalez204@gmail.com,Calle Durango,306,Cuauhtémoc,8104009672
+205,Natalia Aguilar Chávez,natalia.aguilar205@gmail.com,Av. División del Norte,603-A,Portales Norte,8114121078
+206,Lucía Chávez Ortiz,lucia.chavez206@ipn.mx,Av. Universidad,759-B,Escandón,5662405473
+207,Juan Díaz Cruz,juan.diaz207@hotmail.com,Av. Chapultepec,562,Lindavista,8143111310
+208,Natalia López López,natalia.lopez208@hotmail.com,Av. Chapultepec,750,Santa María la Ribera,8184315667
+209,Fernanda Torres Castillo,fernanda.torres209@gmail.com,Calle Colima,193,Juárez,3337273903
+210,Ana Cruz Rodríguez,ana.cruz210@yahoo.com.mx,Calle Orizaba,273 Int. 3,Condesa,5561002901
+211,Lucía Gómez Ruiz,lucia.gomez211@outlook.com,Calle Madero,240,San Ángel,8133037082
+212,Valeria Ortiz Hernández,valeria.ortiz212@outlook.com,Calle Durango,966-A,San Ángel,5595207459
+213,Camila Hernández Aguilar,camila.hernandez213@yahoo.com.mx,Calle Orizaba,658-A,Narvarte Poniente,3351688928
+214,Natalia García Ortiz,natalia.garcia214@gmail.com,Calle Colima,283-B,Cuauhtémoc,3342838889
+215,Luis Hernández González,luis.hernandez215@hotmail.com,Av. Revolución,132-B,Narvarte Poniente,3325692220
+216,Arturo Flores Reyes,arturo.flores216@yahoo.com.mx,Av. Reforma,929-B,Escandón,5624482255
+217,Luis Gómez Ramírez,luis.gomez217@yahoo.com.mx,Av. Reforma,550,Narvarte Poniente,5622370766
+218,José Aguilar Pérez,jose.aguilar218@yahoo.com.mx,Calle Orizaba,395,Coyoacán Centro,5565910155
+219,Sofía Gutiérrez Rivera,sofia.gutierrez219@hotmail.com,Calle Puebla,661-A,San Ángel,8187923220
+220,Sofía Rivera Vázquez,sofia.rivera220@ipn.mx,Av. Revolución,228,Anzures,5665065588
+221,Fernanda López Méndez,fernanda.lopez221@hotmail.com,Av. Chapultepec,709-A,Del Valle Centro,3340354968
+222,Jorge Vázquez Gómez,jorge.vazquez222@outlook.com,Calle Puebla,734 Int. 3,Polanco,8146549770
+223,Camila Rivera Cruz,camila.rivera223@outlook.com,Calle Hamburgo,118-A,Polanco,5683526765
+224,Carlos Flores Vázquez,carlos.flores224@ipn.mx,Av. Universidad,532,Condesa,8103986866
+225,José Vázquez Álvarez,jose.vazquez225@gmail.com,Calle Colima,495-A,Lindavista,5679347148
+226,Luis Reyes Hernández,luis.reyes226@outlook.com,Av. Universidad,140,Santa María la Ribera,8179883180
+227,Ricardo Ramírez González,ricardo.ramirez227@hotmail.com,Av. Revolución,477 Int. 3,Santa María la Ribera,5523358804
+228,Ana Díaz García,ana.diaz228@yahoo.com.mx,Calle Orizaba,942-A,Lindavista,5553300094
+229,Juan Ramírez Flores,juan.ramirez229@gmail.com,Av. División del Norte,977,Cuauhtémoc,5540046856
+230,Lucía Ruiz Álvarez,lucia.ruiz230@ipn.mx,Calz. de Tlalpan,610,San Ángel,5641177006
+231,Ana García Díaz,ana.garcia231@gmail.com,Av. División del Norte,970-A,Nápoles,5517583674
+232,Luis García Torres,luis.garcia232@hotmail.com,Av. División del Norte,369 Int. 3,Narvarte Poniente,3347333598
+233,Arturo Vázquez Sánchez,arturo.vazquez233@ipn.mx,Calle Colima,282-B,Condesa,3376302459
+234,Carlos Chávez Gómez,carlos.chavez234@gmail.com,Av. Chapultepec,52,Nápoles,5581249818
+235,Ana Pérez Díaz,ana.perez235@hotmail.com,Av. Universidad,90,Nápoles,5501826782
+236,José Castillo Romero,jose.castillo236@hotmail.com,Calle Puebla,207-A,Santa María la Ribera,5657969883
+237,Arturo García Gutiérrez,arturo.garcia237@outlook.com,Calle Puebla,313-B,Polanco,5568808779
+238,Camila Méndez Romero,camila.mendez238@outlook.com,Calle Durango,714 Int. 3,Cuauhtémoc,3333854554
+239,Luis Gómez Cruz,luis.gomez239@gmail.com,Av. Reforma,54,Polanco,5550496364
+240,Lucía Mendoza Gómez,lucia.mendoza240@gmail.com,Av. División del Norte,51,Santa María la Ribera,3371739144
+241,Alejandro Aguilar Morales,alejandro.aguilar241@hotmail.com,Av. Revolución,729,Del Valle Centro,5683203606
+242,Diego Gutiérrez Jiménez,diego.gutierrez242@ipn.mx,Calle Álvaro Obregón,896-B,Portales Norte,3391182125
+243,Luis Ortiz Torres,luis.ortiz243@yahoo.com.mx,Calle Puebla,481,Santa María la Ribera,3397498707
+244,Paula Jiménez Álvarez,paula.jimenez244@gmail.com,Calle Hamburgo,258 Int. 3,Del Valle Centro,8180420795
+245,Camila Jiménez González,camila.jimenez245@yahoo.com.mx,Av. Revolución,104 Int. 3,Polanco,3371543591
+246,Natalia Sánchez Aguilar,natalia.sanchez246@ipn.mx,Av. Revolución,609-A,Juárez,5610663625
+247,María Jiménez Hernández,maria.jimenez247@ipn.mx,Calle Madero,562 Int. 3,Polanco,8146441746
+248,Daniela Moreno Gómez,daniela.moreno248@yahoo.com.mx,Calle Madero,89,Polanco,5514628970
+249,Carlos López Ortiz,carlos.lopez249@gmail.com,Av. Coyoacán,532,Coyoacán Centro,8131718106
+250,Ximena Gómez Chávez,ximena.gomez250@yahoo.com.mx,Av. Universidad,473-A,Polanco,3383010127
